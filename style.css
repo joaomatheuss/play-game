@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200;1,600&display=swap');
+
+
+button{
+    background-color: rgb(212, 193, 14);
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    height: 50px;
+    width: 100px;
+    border-top: solid 0.5px;
+    position: fixed;               
+    top: 15%;                         
+    transform: translate(0, 50%) 
+
+}
+
+footer{
+   pad: initial;
+   color: rgb(43, 10, 43);
+   position: absolute;               
+   top: 50%;                         
+   transform: translate(0, -50%)   
+}
+
+body{
+    background: rgb(92,121,9);
+background: radial-gradient(circle, rgba(92,121,9,1) 0%, rgba(0,249,255,1) 0%, rgba(16,0,36,1) 100%, rgba(24,216,191,1) 100%);
+}
+
+h1, h3{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.wrapper{
+    width:100%;
+}
+
+.center {
+    padding-top: 100px;
+    margin: auto;
+    width: 38%;
+
+}
+img{
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+    float: right;
+}
+.right{
+    float: right;
+}
+
+#x1 {
+    height: 150px;
+    width: 150px;
+    border-bottom: solid 1px;
+    border-right: solid 1px;
+    display: inline-block;
+    margin: 0px;
+}
+
+#x2 {
+    height: 150px;
+    width: 150px;
+    border-bottom: solid 1px;
+    border-left: solid 1px;
+    border-right: solid 1px;
+    display: inline-block;
+    margin: 0px;
+}
+
+#x3 {
+    height: 150px;
+    width: 150px;
+    border-bottom: solid 1px;
+    border-left: solid 1px;
+    display: inline-block;
+    margin: 0px;
+}
+
+#y1 {
+    height: 150px;
+    width: 150px;
+    border-bottom: solid 1px;
+    border-right: solid 1px;
+    border-top: solid 1px;
+    display: inline-block;
+    margin: 0px;
+}
+
+#y2 {
+    height: 150px;
+    width: 150px;
+    border: solid 1px;
+    display: inline-block;
+    margin: 0px;
+}
+
+#y3 {
+    height: 150px;
+    width: 150px;
+    border-bottom: solid 1px;
+    border-left: solid 1px;
+    border-top: solid 1px;
+    display: inline-block;
+    margin: 0px;
+}
+
+#z1 {
+    height: 150px;
+    width: 150px;
+    border-top: solid 1px;
+    border-right: solid 1px;
+    display: inline-block;
+    margin: 0px;
+}
+#z2 {
+    height: 150px;
+    width: 150px;
+    border-top: solid 1px;
+    border-left: solid 1px;
+    border-right: solid 1px;
+    display: inline-block;
+    margin: 0px;
+}
+#z3 {
+    height: 150px;
+    width: 150px;
+    border-top: solid 1px;
+    border-left: solid 1px;
+    display: inline-block;
+    margin: 0px;
+}
